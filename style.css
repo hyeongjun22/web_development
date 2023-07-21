@@ -1,0 +1,36 @@
+
+header {
+    background-color:#3763c9;
+    font-size:30px;
+    margin:0px;
+}
+
+
+a{
+    text-decoration : none;
+    color : inherit;
+}
+
+.header_n{
+    display: inline-block;
+    color:#3763c9;
+    background-color: white;
+    margin: 5px 5px 5px 500px ;
+    width:40px;
+    text-align: center;
+    
+}
+
+.line{
+    display:inline-block;
+    border-right:2px solid; 
+    padding-right:4px;
+}
+nav{
+    background-color:#3763c9;
+}
+ol{
+    margin:0px;
+    color:rgba(255,255,225,0.1);
+    font-size:20px;
+}

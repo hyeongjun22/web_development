@@ -34,3 +34,38 @@ ol{
     color:rgba(255,255,225,0.1);
     font-size:20px;
 }
+.video1{
+    background-color:#eff2f8;
+    height:156px;
+}
+.video2{
+    width:246px;
+    height:154px;
+    display:inline-block;
+    margin: 1px;
+    background-color: red;
+}
+
+.slide{
+    margin:0 auto;
+    position:relative;
+    max-width:1000px;
+
+}
+
+.sec1{
+    height:600px;
+    width: 100%;
+
+}
+.sec2{
+    width:45%;
+    height:100%;
+    display:inline-block;
+}
+.sec1 article:nth-child(1){
+    background-color:red;
+}
+.sec3{
+    height:500px;
+}

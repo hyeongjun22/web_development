@@ -1,0 +1,23 @@
+let a;
+const b=null;
+var c;
+
+console.log(a);
+console.log(b);
+console.log(c);
+console.log('-----------');
+console.log(a===null);
+console.log(b===null);
+console.log(c===null);
+console.log('-----------');
+console.log(a===undefined);
+console.log(b===undefined);
+console.log(c===undefined);
+console.log('-----------');
+console.log(a==null);
+console.log(b==null);
+console.log(c==null);
+console.log('-----------');
+console.log(a==undefined);
+console.log(b==undefined);
+console.log(c==undefined);
